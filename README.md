@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Joseph Jones  
 
-I like to:
+I like to: Play HOTS
 
-I'm learning:
+I'm learning: CSS/HTML/JavaScript/Everything
 
 ```
 
